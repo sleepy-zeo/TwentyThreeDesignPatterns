@@ -3,7 +3,7 @@ package com.lullaby.pattern;
 /**
  * 单例模式
  */
-public class SingletonPattern {
+public class CreateSingletonPattern {
 
     public static void main(String[] args) {
 

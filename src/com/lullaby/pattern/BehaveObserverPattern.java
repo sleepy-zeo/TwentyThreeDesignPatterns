@@ -8,7 +8,7 @@ import java.util.List;
  *
  * 当对象的状态发生改变的时候，所有观察该对象的观察者都会收到通知
  */
-public class ObserverPattern {
+public class BehaveObserverPattern {
 
     public static void main(String[] args) {
 

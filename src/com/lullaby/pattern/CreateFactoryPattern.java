@@ -3,7 +3,7 @@ package com.lullaby.pattern;
 /**
  * 工厂模式
  */
-public class FactoryPattern {
+public class CreateFactoryPattern {
 
     public static void main(String[] args) {
 
